@@ -1,0 +1,24 @@
+img {
+    max-width: 100%;
+    width: auto !important;
+    margin: 0 auto;
+    padding: 50px;
+    
+}
+
+h5 {
+    color: black;
+    margin-top: auto;
+    margin-bottom: unset;
+    font-weight: 900;
+    font-family: monospace;
+    font-size:larger;
+}
+
+p {
+    color: white;
+    margin-top: 10px;
+    font-size: large;
+    font-weight: 900;
+    text-align: center;
+}

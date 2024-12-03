@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color:white;
+    box-sizing: border-box;
+}
+
+.logo {
+    width: 60px;
+    height: 60px;
+    border-radius:80% ;
+    margin-right: 25px;
+}
+
+.gym {
+    width: 60px;
+    height: 60px;
+    border-radius:80% ;
+  
+}
