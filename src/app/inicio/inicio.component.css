@@ -6,7 +6,7 @@ body {
 
 .saludo {
     text-align: center;
-    margin-top: 60px;
+    margin-top: auto;
 }
 
 .saludo2 {
@@ -19,12 +19,47 @@ body {
     font-family: monospace;
 }
 
+.titulo2 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+}
+
+.card {
+    border: none;
+    border-radius: 0;
+    height: 85%;
+    
+}
+
+.card-img {
+    border-radius: 100%;
+    object-fit: cover;
+    width: 95%;
+    height: 95%;
+    object-position: right;
+}
+
+.card-img-overlay {
+    align-content: center;
+}
+
+.card-title {
+    font-size: 3rem;
+    color: wheat;
+}
+
+.card-text {
+    font-weight: 800;
+    margin-top: 275px;
+}
+
 .form-registro {
     width: 400px;
     background: #24303c;
     padding: 30px;
     margin:auto;
-    margin-top: 45px;
+    margin-top: 25px;
     border-radius: 4px;
     font-family:'Courier New', Courier, monospace;
     color: white;
@@ -76,3 +111,4 @@ body {
     font-size: 16px;
 
 }
+
